@@ -17,6 +17,8 @@ body {
 }
 
 article {
+	max-width: 800px;
+	width: 50em;
 
 }
 
@@ -25,5 +27,6 @@ h1 {
 }
 
 img {
+	max-width: 100%;
 
 }
